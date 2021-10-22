@@ -33,7 +33,7 @@ public abstract class Animal {
     public void setEdad(int edad) {
         this.edad = edad;
     }
-    
+
     public void comunicarse() {
         System.out.println("Hola");
     }
